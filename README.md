@@ -9,7 +9,7 @@ I'm Peter - a 20 year old developer, wanting to pursue a career in software engi
 
 - 🌐 Visit my portfolio [here](https://prutkowski.tech)!
 - 🎓 Studying at City, University of London
-- 👨🏻‍💻 Creating awesome things at [Equals](https://equals.com)
+- 👨🏻‍💻 Creating awesome things at [Equals](https://equals.co)
 - 🇵🇱🇳🇴 Polish/Norwegian
 - 🇬🇧 Based in London, UK
 - 📸 Photograper
