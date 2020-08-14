@@ -12,6 +12,8 @@ I'm Peter - a 20 year old developer, wanting to pursue a career in software engi
 - 👨🏻‍💻 Creating awesome things at [Equals](https://equals.com)
 - 🇵🇱🇳🇴 Polish/Norwegian
 - 🇬🇧 Based in London, UK
+- 📸 Photograper
+- 🚀 Interested in all things space
 
 
 ## Technologies and tools I use
