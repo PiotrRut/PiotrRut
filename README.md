@@ -3,7 +3,7 @@
 </p>
 
 Welcome to my profile!<br/>
-I'm Peter - a 20 year old developer, wanting to pursue a career in software engineering or web development!
+I'm Peter - a 20 year old developer, pursuing a career in software/web dev!
 
 - 🌐 Visit my portfolio [here](https://prutkowski.tech)!
 - 🎓 Studying at City, University of London
