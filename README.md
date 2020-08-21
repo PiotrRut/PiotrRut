@@ -1,10 +1,8 @@
-
-## Welcome to my profile!<br/> 
-
 <p align="left">
   <a href="https://twitter.com/PiotrRut99"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> &nbsp; <a href="http://linkedin.com/in/piotr-rutkowski-7082a917a/"><img alt="LinkedIn" title="LinkedIn" width="100" height="30" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg"></a>
 </p>
 
+Welcome to my profile!<br/>
 I'm Peter - a 20 year old developer, pursuing a career in software/web dev!
 
 - 🌐 Visit my portfolio [here](https://prutkowski.tech)!
