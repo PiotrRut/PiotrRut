@@ -3,7 +3,7 @@
 </p>
 
 
-Welcome to my profile!<br/>
+Welcome to my profile! <img width="20" src="https://github.com/PiotrRut/PiotrRut/blob/master/Hi.gif" width="29px"> <br/> 
 I'm Peter - a 20 year old developer, pursuing a career in software/web dev!
 
 - 🌐 Visit my portfolio [here](https://prutkowski.tech)!
