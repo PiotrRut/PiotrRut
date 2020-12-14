@@ -10,7 +10,7 @@ I'm Peter - a 21 year old developer, pursuing a career in software/web dev!
 - 👨🏻‍💻 Creating awesome things at [Equals](https://equals.co)
 - 🇵🇱🇳🇴 Polish/Norwegian
 - 🇬🇧 Based in London, UK
-- 📸 Photograper
+- 📸 Photographer
 - 🚀 Interested in all things space
 
 
