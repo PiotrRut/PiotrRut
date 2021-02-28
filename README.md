@@ -7,14 +7,14 @@ I'm Peter - a 21 year old developer, pursuing a career in software/web dev!
 
 - 🌐 Visit my website [here](https://prutkowski.tech)!
 - 🎓 Studying at City, University of London
-- 👨🏻‍💻 Creating awesome things at [Equals](https://equals.co)
+- 👨🏻‍💻 Creating awesome stuff at [FairFX](https://fairfx.com) & [Equals](https://equals.co)
 - 🇵🇱🇳🇴 Polish/Norwegian
 - 🇬🇧 Based in London, UK
 - 📸 Photographer
 - 🚀 Interested in all things space
 
 ### 🌱 Currently working on:
-[BetterGitCLI](https://github.com/PiotrRut/BetterGitXLI) - a CLI for quick an easy GitHub account management, with friendly UI and keyboard control. Currently in version *v1.1*, allows you to manage many aspects of your GitHub account, all from repositories, through your user details, to your SSH keys, right in your shell without you having to remember any commands!
+[BetterGitCLI](https://github.com/PiotrRut/BetterGitCLI) - a CLI for quick an easy GitHub account management, with friendly UI and keyboard control. Currently in version *v1.1*, allows you to manage many aspects of your GitHub account, all from repositories, through your user details, to your SSH keys, right in your shell without you having to remember any commands!
 
 ## Technologies and tools I use
 
