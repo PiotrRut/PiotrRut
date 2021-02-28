@@ -13,6 +13,8 @@ I'm Peter - a 21 year old developer, pursuing a career in software/web dev!
 - 📸 Photographer
 - 🚀 Interested in all things space
 
+### 🌱 Currently working on:
+[BetterGitCLI](https://github.com/PiotrRut/BetterGitXLI) - a CLI for quick an easy GitHub account management, with friendly UI and keyboard control. Currently in version *v1.1*, allows you to manage many aspects of your GitHub account, all from repositories, through your user details, to your SSH keys, right in your shell without you having to remember any commands!
 
 ## Technologies and tools I use
 
