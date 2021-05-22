@@ -3,11 +3,11 @@
 </p>
 
 Welcome to my profile!<br/>
-I'm Peter - a 21 year old developer, pursuing a career in software/web dev!
+I'm Peter - a 21 year old software developer!
 
 - 🌐 Visit my website [here](https://prutkowski.dev)!
 - 🎓 Studying at City, University of London
-- 👨🏻‍💻 Creating awesome stuff at [FairFX](https://fairfx.com) & [Equals](https://equals.co)
+- 👨🏻‍💻 Software dev @ [FairFX](https://fairfx.com) & [Equals](https://equals.co)
 - 🇵🇱🇳🇴 Polish/Norwegian
 - 🇬🇧 Based in London, UK
 - 📸 Photographer
