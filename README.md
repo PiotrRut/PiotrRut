@@ -7,7 +7,7 @@ I'm Peter - a 21 year old software developer!
 
 - 🌐 Visit my website [here](https://prutkowski.dev)!
 - 🎓 Studying at City, University of London
-- 👨🏻‍💻 Software dev @ [FairFX](https://fairfx.com) & [Equals](https://equals.co)
+- 👨🏻‍💻 Software dev @[Equals](https://equals.co)
 - 🇵🇱🇳🇴 Polish/Norwegian
 - 🇬🇧 Based in London, UK
 - 📸 Photographer
