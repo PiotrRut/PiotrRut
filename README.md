@@ -3,7 +3,7 @@
 </p>
 
 Welcome to my profile!<br/>
-I'm Peter - a 21 year old software developer!
+I'm Peter - a 22 year old software developer!
 
 - 🌐 Visit my website [here](https://prutkowski.dev)!
 - 🎓 Studying at City, University of London
