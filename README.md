@@ -5,6 +5,7 @@
 Welcome to my profile!<br/>
 I'm Peter - a 22 year old software developer!
 
+- ✅ [Certified AWS Cloud Practitioner](https://www.credly.com/badges/b7523fd1-600f-4688-89c4-99ef02d54287/public_url)
 - 🌐 Visit my website [here](https://prutkowski.dev)!
 - 🎓 Studying at City, University of London
 - 👨🏻‍💻 Software dev @[Equals](https://equals.co)
