@@ -3,21 +3,16 @@
 </p>
 
 Welcome to my profile!<br/>
-I'm Peter - a 22 year old software developer!
+I'm Peter - a 25 year old software developer!
 
 - ✅ [Certified AWS Cloud Practitioner](https://www.credly.com/badges/b7523fd1-600f-4688-89c4-99ef02d54287/public_url)
 - 🌐 Visit my website [here](https://prutkowski.dev)!
-- 🎓 Studying at City, University of London
-- 👨🏻‍💻 Software dev @[Equals](https://equals.co)
+- 🎓 Alumni - City, University of London
+- 👨🏻‍💻 Product Engineering Lead @[Equals](https://equals.co)
 - 🇵🇱🇳🇴 Polish/Norwegian
 - 🇬🇧 Based in London, UK
 - 📸 Photographer
 - 🚀🏎 Interested in all things space & motorsport
-
-### 🌱 Currently working on:
-[BetterGitCLI](https://github.com/PiotrRut/BetterGitCLI) - a CLI for quick an easy GitHub account management, with friendly UI and keyboard control. Currently in version *v1.3.0*, allows you to manage many aspects of your GitHub account, all from repositories, through your user details, to your SSH keys, right in your shell without you having to remember any commands!
-
-[Elon Musk Twitter Notifier](https://github.com/PiotrRut/elonmusk-twitter-notifier) - a notification service that constantly listens to Elon Musk's Twitter account and sends out an email notification each time it detects a tweet about stocks, bitcoin, crypto, etc... It also uses custom-trained artificial intelligence for object recognition in tweeted images, and forwards the image with detection boxes in the e-mail.
 
 ## 🔬 Technologies and tools I use
 
