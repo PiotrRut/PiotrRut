@@ -3,14 +3,12 @@
 </p>
 
 Welcome to my profile!<br/>
-I'm Peter - a 25 year old software developer!
+I'm Peter - a 26 year old software developer!
 
 - ✅ [Certified AWS Cloud Practitioner](https://www.credly.com/badges/b7523fd1-600f-4688-89c4-99ef02d54287/public_url)
 - 🌐 Visit my website [here](https://prutkowski.dev)!
 - 🎓 Alumni - City, University of London
 - 👨🏻‍💻 Product Engineering Lead @[Equals](https://equals.co)
-- 🇵🇱🇳🇴 Polish/Norwegian
-- 🇬🇧 Based in London, UK
 - 📸 Photographer
 - 🚀🏎 Interested in all things space & motorsport
 
